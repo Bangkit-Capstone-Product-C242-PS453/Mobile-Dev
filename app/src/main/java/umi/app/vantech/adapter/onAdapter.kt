@@ -17,7 +17,7 @@ class OnAdapter(
         R.layout.onboarding1,
         R.layout.onboarding2,
         R.layout.onboarding3,
-//        R.layout.onboarding4
+        R.layout.onboarding4
     )
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): OnboardingViewHolder {
